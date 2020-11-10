@@ -1,0 +1,37 @@
+.main-button {
+    width: 296px;
+    height: 64px;
+    background: #FF8B37;
+    border-radius: 12px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+    border: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.main-button:hover{
+    background: #FFAC70
+}
+.main-button:active{
+    background: #E87928;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+    .main-button {
+        margin-top: 80px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .main-button {
+        width: 280px;
+        height: 48px;
+    }
+}
+

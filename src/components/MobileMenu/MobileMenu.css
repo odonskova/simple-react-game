@@ -1,0 +1,22 @@
+.mobile-menu {
+    display: none;
+}
+
+@media screen and (max-width: 960px) {
+    .mobile-menu {
+        display: block;
+        top: 10px;
+        font-size: 1.8rem;
+        cursor: pointer;
+    }
+    i {
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .mobile-menu {
+        font-size: 1.4rem;
+    }
+}

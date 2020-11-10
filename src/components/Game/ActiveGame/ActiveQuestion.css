@@ -1,0 +1,67 @@
+section {
+    display: flex;
+}
+.game-section {
+    height: 100vh;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0 50px;
+}
+
+.game-section__options {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.game-section__question p {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 116%;
+}
+
+.game-section__rewardMap {
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+}
+
+.game-section__rewardMap-mobile {
+    display: block;
+    width: 100vw;
+    z-index: 100;
+}
+@media screen and (max-width: 960px) {
+    .game-section__options {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .game-section {
+        padding: 0;
+        justify-content: space-around;
+    }
+    .game-section__question {
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .game-section__question p {
+        font-size: 18px;
+    }
+    .game-section__options {
+       margin-bottom: 50px;
+    }
+}
+
+
+
+
+
+

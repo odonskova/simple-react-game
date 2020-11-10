@@ -1,0 +1,330 @@
+{
+  "rewardMap" : {"1":  "500", "2": "1,000", "3":  "2,000", "4": "4,000", "5":  "8,000", "6": "16,000",
+    "7":  "32,000", "8": "64,000", "9": "125,000", "10": "250,000", "11": "500,000", "12": "1,000,000"},
+  "questionsList": [
+    {
+      "id": 1,
+      "question": "Who played the lead role in the 2001 film Lara Croft: Tomb Raider?",
+      "rightAnswerId": [3],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "Gal Gadot"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "Connie Nielsen"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "Angelina Jolie"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "Margot Robbie"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What year was the first Toy Story film released in cinemas?",
+      "rightAnswerId": [1],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "1995"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "2000"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "2019"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "1998"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Who directed Titanic, Avatar and The Terminator?",
+      "rightAnswerId": [2],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "Steven Spielberg"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "James Cameron"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "Peter Jackson"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "David Yates"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Name the 2015 film spinoff to the Rocky series starring Michael B. Jordan.",
+      "rightAnswerId": [4],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "Apolo Creed"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "Christian Bale"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "Peter Jackson"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "Holly Hunter"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which actor broke two toes whilst filming The Lord of the Rings: The Two Towers?",
+      "rightAnswerId": [1],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "Viggo Mortensen"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "Elijah Wood"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": " Ian McKellen"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "Sean Astin"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How many films have Kate Winslet and Leonardo DiCaprio starred in together?",
+      "rightAnswerId": [2],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "One"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "Two"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "Three"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "Four"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Who has won the most Oscars for acting in the history of the Academy Awards?",
+      "rightAnswerId": [4],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "Meryl Streep"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "Meryl Streep"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "Robert De Niro"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "Katherine Hepburn"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the name of the second James Bond film?",
+      "rightAnswerId": [3],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "Goldfinger"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "Diamonds Are Forever"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "From Russia With Love"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "GoldenEye"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "For which film did Sandra Bullock win her Oscar?",
+      "rightAnswerId": [2],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "Loverboy"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "The Blind Side"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "The Lake House"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "The Proposal"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How many films have Al Pacino and Robert De Niro starred in together?",
+      "rightAnswerId": [4],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "One"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "Two"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "Three"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "Four"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What was Orlando Bloom’s first film role?",
+      "rightAnswerId": [1],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "Oscar Wilde biopic Wilde"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "Main Street"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "Main Street"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "Romeo and Juliet"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "In Indiana Jones and the Temple of Doom, which Star Wars character gets a namecheck?",
+      "rightAnswerId": [3],
+      "answerVariants": [
+        {
+          "id": 1,
+          "option": "A",
+          "answer": "Logray"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "answer": "Itchy"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "answer": "Obi-Wan Kenob"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "answer": "Gonk Droid"
+        }
+      ]
+    }
+  ]
+}
